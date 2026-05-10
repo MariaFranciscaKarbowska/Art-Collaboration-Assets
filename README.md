@@ -2,7 +2,7 @@
 
 ### 𝙸𝚕𝚕𝚞𝚜𝚝𝚛𝚊𝚝𝚒𝚘𝚗 𝚂𝚎𝚛𝚒𝚎𝚜: 𝙰𝚛𝚝𝚒𝚜𝚝 𝙲𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚒𝚘𝚗
 
-𝚃𝚑𝚒𝚜 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚢 𝚜𝚑𝚘𝚠𝚌𝚊𝚜𝚎𝚜 𝚊 𝚜𝚎𝚛𝚒𝚎𝚜 𝚘𝚏 **𝚐𝚎𝚘𝚖𝚎𝚝𝚛𝚒𝚌 𝚍𝚒𝚐𝚒𝚝𝚊𝚕 𝚊𝚜𝚜𝚎𝚝𝚜** 𝚙𝚛𝚎𝚙𝚊𝚛𝚎𝚍 𝚊𝚜 𝚝𝚎𝚌𝚑𝚗𝚒𝚌𝚊𝚕 𝚋𝚊𝚜𝚎𝚕𝚒𝚗𝚎𝚜 𝚏𝚘𝚛 𝚙𝚛𝚘𝚏𝚎𝚜𝚜𝚒𝚘𝚗𝚊𝚕 𝚊𝚛𝚝𝚒𝚜𝚝𝚒𝚌 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝. 
+𝚃𝚑𝚒𝚜 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚢 𝚜𝚑𝚘𝚠𝚌𝚊𝚜𝚎𝚜 𝚊 𝚜𝚎𝚛𝚒𝚎𝚜 𝚘𝚏 **𝚐𝚎𝚘𝚖𝚎𝚝𝚛𝚒𝚌 𝚍𝚒𝚐𝚒𝚝𝚊𝚕 𝚊𝚜𝚜𝚎𝚝𝚜** 𝚙𝚛𝚎𝚙𝚊𝚛𝚎𝚍 𝚊𝚜 𝚝𝚎𝚌𝚑𝚗𝚒𝚌𝚊𝚕 𝚋𝚊𝚜𝚎𝚕𝚒𝚗𝚎𝚜 𝚏𝚘𝚛 𝚙𝚛𝚘𝚏𝚎𝚜𝚜𝚒𝚘𝚗𝚊𝚕 𝚊𝚛𝚝𝚒𝚜𝚝𝚒𝚌 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝. Made in Adobe Photoshop and Adobe InDesign.
 
 𝙼𝚢 𝚛𝚘𝚕𝚎 𝚏𝚘𝚌𝚞𝚜𝚎𝚍 𝚘𝚗:
 * **𝙿𝚛𝚎𝚌𝚒𝚜𝚎 𝙲𝚘𝚗𝚜𝚝𝚛𝚞𝚌𝚝𝚒𝚘𝚗:** 𝚅𝚎𝚌𝚝𝚘𝚛-𝚜𝚝𝚢𝚕𝚎 𝚏𝚘𝚛𝚖𝚜 𝚠𝚒𝚝𝚑 𝚌𝚕𝚎𝚊𝚗 𝚐𝚎𝚘𝚖𝚎𝚝𝚛𝚢.
@@ -13,11 +13,11 @@
 
 ###  𝚅𝚒𝚜𝚞𝚊𝚕 𝙰𝚜𝚜𝚎𝚝𝚜
 
-Vector Illustration no. 1  | ####   Vector Illustration no. 2
+Vector Illustration no. 1  |    Vector Illustration no. 2
 
 | <img src="dragon.jpg" width="380"> |  <img src="vache.jpg" width="380"> |
 
-Vector Illustration no. 3  | ######  Vector Illustration no. 4
+Vector Illustration no. 3  |   Vector Illustration no. 4
 
 | <img src="ptak.jpg" width="380"> |   <img src="coque1.jpg" width="380"> |
 
@@ -25,5 +25,5 @@ Vector Illustration no. 3  | ######  Vector Illustration no. 4
 ---
 
 <p align="right">
-  𝚂𝚢𝚜𝚝𝚎𝚖𝚊𝚝𝚒𝚌 𝙳𝚎𝚜𝚒𝚐𝚗 ✦ 𝟸𝟶𝟸𝟺
+  𝚂𝚢𝚜𝚝𝚎𝚖𝚊𝚝𝚒𝚌 𝙳𝚎𝚜𝚒𝚐𝚗 𝟸𝟶𝟸𝟺
 </p>
