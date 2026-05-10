@@ -1,4 +1,4 @@
-# ✦ Art Collaboration Assets
+#  Art Collaboration Assets
 
 ### 𝙸𝚕𝚕𝚞𝚜𝚝𝚛𝚊𝚝𝚒𝚘𝚗 𝚂𝚎𝚛𝚒𝚎𝚜: 𝙰𝚛𝚝𝚒𝚜𝚝 𝙲𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚒𝚘𝚗
 
@@ -13,21 +13,14 @@
 
 ###  𝚅𝚒𝚜𝚞𝚊𝚕 𝙰𝚜𝚜𝚎𝚝𝚜
 
-Vector Illustration no. 1
+Vector Illustration no. 1  |   Vector Illustration no. 2
 
-| <img src="dragon.jpg" width="380"> | 
+| <img src="dragon.jpg" width="380"> |  <img src="vache.jpg" width="380"> |
 
-Vector Illustration no. 2
+Vector Illustration no. 3  |   Vector Illustration no. 4
 
-| <img src="vache.jpg" width="380"> |
+| <img src="ptak.jpg" width="380"> |   <img src="coque1.jpg" width="380"> |
 
-Vector Illustration no. 3
-
-| <img src="ptak.jpg" width="380"> |
-
-Vector Illustration no. 4
-
-| <img src="coque1.jpg" width="380"> |
 
 ---
 
