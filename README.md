@@ -13,11 +13,11 @@
 
 ###  𝚅𝚒𝚜𝚞𝚊𝚕 𝙰𝚜𝚜𝚎𝚝𝚜
 
-Vector Illustration no. 1  |   Vector Illustration no. 2
+Vector Illustration no. 1  | ####   Vector Illustration no. 2
 
 | <img src="dragon.jpg" width="380"> |  <img src="vache.jpg" width="380"> |
 
-Vector Illustration no. 3  |   Vector Illustration no. 4
+Vector Illustration no. 3  | ######  Vector Illustration no. 4
 
 | <img src="ptak.jpg" width="380"> |   <img src="coque1.jpg" width="380"> |
 
